@@ -1,0 +1,7 @@
+This is my first text file with Git.
+
+
+Such a cool experience !
+
+
+
